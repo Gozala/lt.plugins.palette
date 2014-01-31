@@ -1,0 +1,12 @@
+{"version":3,
+ "file":"compiled.map",
+ "sources":
+ ["src/plugins/palette.cljs"],
+ "lineCount":20,
+ "mappings":
+ ";AAAA;;;;;;;;AAOA,kCAAA,8BAAA,hEAAMA,yDACHC,OACD,kDAAA,2CAAA,tFAACC,qCAAmBD,sHAAoB,AAAA,4HAAW,AAAAE,0BAACF;;AAEtD,AAAA,AAAAG,mCAAA,+BAAA,PAKyBH,OACH,sCAAA,2CAAA,8FAAA,/KAACK,gCAAcL;AACf,OAACD,0CAAaC;;AAPpC,AAAAI,mCAAA,4FAAA,6DAAAD,iCAAA,qDAAA,qCAAA,6DAAA,iFAAA,4FAAA,qDAAA,qDAAA,+DAAA,mFAAA,6FAAA;AASA,AAAA,AAAAG,oCAAA,gCAAA,PAKyBN,OACH,sCAAA,2CAAA,8FAAA,/KAACK,gCAAcL;AACf,OAACD,0CAAaC;;AAPpC,AAAAI,mCAAA,6FAAA,6DAAAE,kCAAA,qDAAA,sCAAA,6DAAA,iFAAA,4FAAA,qDAAA,qDAAA,+DAAA,mFAAA,4FAAA",
+ "names":
+ ["lt.plugins.palette/update-hints", "this",
+  "lt.objs.editor/set-options", "cljs.core/deref",
+  "lt.plugins.palette/__BEH__enable", "lt.object/behavior*",
+  "lt.object/merge!", "lt.plugins.palette/__BEH__disable"]}

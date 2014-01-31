@@ -1,0 +1,10 @@
+.CodeMirror .cm-palette-hint {
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 0 2px;
+  border-radius: 50%;
+  vertical-align: middle;
+  width: 10px;
+  height: 10px;
+  box-shadow: 0 0 2px;
+}

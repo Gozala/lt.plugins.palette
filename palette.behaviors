@@ -1,0 +1,4 @@
+{:+ {:app [(:lt.objs.plugins/load-css "resource/palette.css")
+           (:lt.objs.plugins/load-js ["support/CodeMirror/addon/display/palette.js"
+                                      "palette_compiled.js"])]
+     :editor.css [:lt.plugins.palette/enable]}}
